@@ -1,0 +1,1 @@
+hw2 focused on trying to build a classifier to classify gender based on a tweet and the users profile. It did not perform very well probably due to poorly chosen features.
