@@ -1,0 +1,26 @@
+2a. Male chat participants speak in significantly shorter sentences than do female chat participants.
+  null: There is no significant different in sentence length between male and female chat participants.
+2b. Male chat participants use significantly more pronouns than do female chat participants.
+  null: There is no significant different in the quantity of pronoun usage between male and female chat participants
+
+Mar06_GroupA results
+? moderator :  10
+F julie     :  29
+F eva       :  28
+F rebecca   :  26
+F cinthia   :  22
+F caroline  :  12
+M josh      :  26
+M jake      :  39
+M matthew   :  14
+* TOTAL     : 206
+
+Mar07_GroupB results
+F ariel     :  80
+? moderator :   9
+F lynn      :  77
+M luke      :  32
+M aaron     :  54
+M ted       :  39
+F judith    :  32
+* TOTAL     : 323
