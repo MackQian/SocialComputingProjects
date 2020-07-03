@@ -1,0 +1,1 @@
+basic project to get us familiar with some basic NLP techniques, like extracting pronouns. Used Stanfords CoreNLP to analyze the chat logs.
